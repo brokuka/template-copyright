@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Nuxt module for templates copyright",
   "license": "MIT",
+  "author": "Ernest Manukyan <erik.manukyan2010@yandex.ru> (https://github.com/brokuka/)",
+  "homepage": "https://github.com/brokuka/template-copyright",
   "type": "module",
   "exports": {
     ".": {
